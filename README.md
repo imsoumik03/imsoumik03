@@ -19,17 +19,17 @@ I'm **Soumik Ghosh**, a third-year B.Tech student in **Computer Science** at **I
 - **CodeChef 4★ Coder** (Peak: 1816)  
 - Solved **600+ problems** on platforms like LeetCode, Codeforces, and CodeChef.  
 -->
-### 🖥️ I've written "Hello World" in 
+### 💻 I've written "Hello World" in 
 - **Languages**: C, C++, Python, Java, JavaScript, Bash
 - **Web Development**:  HTML5, CSS3, React.js, Next.js, Node.js, Express, MongoDB, MySQL  
 - **Tools**: Redux, Socket.io, Git, AWS
 - **Interests**: Operating Systems, Backend Development, DBMS, OOPs, 
-
+<!--
 ### 🌟 Achievements  
 - Top 5 contributor to **Calc for Everything** repository during **Hacktoberfest 2023**.  
 - Participation certificate in **Hack the Mountain Hackathon**.  
 - Organized events for 500+ students as part of IIIT Lucknow’s **Sports Society**.  
-
+-->
 ### 📫 How to Reach Me  
 - **Email**: [soumikghosh5225@gmail.com](mailto:soumikghosh5225@gmail.com)  
 - **LinkedIn**: [Soumik Ghosh](https://www.linkedin.com/in/soumik-ghosh-344a76255/)  
