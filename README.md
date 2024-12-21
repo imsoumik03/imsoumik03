@@ -9,6 +9,7 @@ I'm **Soumik Ghosh**, a third-year B.Tech student in **Computer Science** at **I
 - 🤔 Looking for opportunities to grow as a **Software Development Intern** for **Summer 2025**.  
 - ⚡ Fun fact: I’ve solved **800+ problems** across various coding platforms!  
 
+<!--
 ### 💼 Projects  
 - **[CoEdit](https://github.com/imsoumik03/CoEdit_)**: A real-time collaborative coding platform.  
 - **[Hobinix](https://github.com/imsoumik03/Hobinix)**: A hobby-sharing platform to connect like-minded individuals.  
@@ -18,11 +19,12 @@ I'm **Soumik Ghosh**, a third-year B.Tech student in **Computer Science** at **I
 - **Codeforces Specialist** (Rating: 1586)  
 - **CodeChef 4★ Coder** (Peak: 1816)  
 - Solved **600+ problems** on platforms like LeetCode, Codeforces, and CodeChef.  
-
-### 🛠️ Skills  
-- **Languages**: C, C++, Python, Java, JavaScript  
-- **Web Development**: React.js, Next.js, Node.js, Express, MongoDB, MySQL  
-- **Tools**: Redux, Socket.io, Git, Linux  
+-->
+### 🖥️ I've written "Hello World" in 
+- **Languages**: C, C++, Python, Java, JavaScript, Bash
+- **Web Development**:  HTML5, CSS3, React.js, Next.js, Node.js, Express, MongoDB, MySQL  
+- **Tools**: Redux, Socket.io, Git, AWS
+- **Interests**: Operating Systems, Backend Development, DBMS, OOPs, 
 
 ### 🌟 Achievements  
 - Top 5 contributor to **Calc for Everything** repository during **Hacktoberfest 2023**.  
