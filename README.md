@@ -6,8 +6,7 @@ I'm **Soumik Ghosh**, a third-year B.Tech student in **Computer Science** at **I
 - 🔭 Currently working on **collaborative coding environments** and **full-stack web applications**.  
 - 🌱 Exploring **Machine Learning** and enhancing my **problem-solving** skills.  
 - 👯 Open to collaborating on **open-source projects** and innovative **web development tools**.  
-- 🤔 Looking for opportunities to grow as a **Software Development Intern** for **Summer 2025**.  
-- ⚡ Fun fact: I’ve solved **800+ problems** across various coding platforms!  
+- 🤔 Looking for opportunities to grow as a **Software Development Intern** for **Summer 2025**.
 
 <!--
 ### 💼 Projects  
