@@ -19,7 +19,7 @@ I'm **Soumik Ghosh**, a third-year B.Tech student in **Computer Science** at **I
 - **CodeChef 4★ Coder** (Peak: 1816)  
 - Solved **600+ problems** on platforms like LeetCode, Codeforces, and CodeChef.  
 -->
-### 💻 I've written "Hello World" in 
+### 💻 I've written "Hello World" using 
 - **Languages**: C, C++, Python, Java, JavaScript, Bash
 - **Web Development**:  HTML5, CSS3, React.js, Next.js, Node.js, Express, MongoDB, MySQL  
 - **Tools**: Redux, Socket.io, Git, AWS
